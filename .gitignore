@@ -1,0 +1,4 @@
+*.reapeaks
+*.rpp-bak
+AutoSaves/**
+Backups/**
